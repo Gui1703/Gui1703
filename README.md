@@ -1,31 +1,46 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Guilherme Raposo">
 
-<p align="left"> 
-  Olá, Me chamo Guilherme Raposo. Sou um <strong>Desenvolvedor Front-End</strong> com objetivo de FullStack.<br>
-</p>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
-</p>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCode.</strong>
-</p>
+```kotlin
+object **Guilherme** {
+ val name = "Guilherme Raposo"
+ val acknowledgements = "Front-End"
+ 
+ val primarySkillset = "Git, GitHub, VSCode"
+ val languages = listOf("HTML", "CSS", "JavaScript") 
 
-<p align="left">
-  💌 Abaixo esta minhas redes sociais para entrar em contato comigo: ⤵️
-</p>
+}
+```
 
-<p align="left">
-  <a href="gui.raposo36@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+## **Linguagens e Ferramentas:**  
 
-  <a href="https://www.linkedin.com/in/guilherme-raposo-3a2130190/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://wa.me/5514998494124" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-  <a href="https://www.instagram.com/guirapososilva/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Gui1703** github stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/guirapososilva/
+[linkedin]: https://www.linkedin.com/in/guilherme-raposo-3a2130190/
+<br>
+
+#### Rede Sociais!
+
+
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
