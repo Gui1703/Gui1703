@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Guilherme Raposo">
 
 <p align="left"> 
-  Olá, Me chamo Guilherme, tenho 21 anos, nasci e moro na cidade de Chavantes - SP e sou um <strong>Desenvolvedor Front-End</strong> com objetivo de FullStack.<br>
+  Olá, Me chamo Guilherme Raposo. Sou um <strong>Desenvolvedor Front-End</strong> com objetivo de FullStack.<br>
 </p>
 
 <p align="left">
