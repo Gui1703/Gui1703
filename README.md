@@ -9,7 +9,7 @@ object **Guilherme** {
  val acknowledgements = "Front-End"
  
  val primarySkillset = "Git, GitHub, VSCode"
- val languages = listOf("HTML", "CSS", "TailwindCSS", "JavaScript", "VueJS", "PHP", "Laravel") 
+ val languages = listOf("HTML", "CSS", "TailwindCSS", "JavaScript", "VueJS") 
 
 }
 ```
@@ -22,8 +22,8 @@ object **Guilherme** {
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">-->
 </div>
 <div>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
