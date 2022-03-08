@@ -1,56 +1,58 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me.
+<p align="left"> 
+  💜 Olá, meu nome é {Guilherme Raposo}! <br>
+  Atualmente sou <strong>Desenvolvedor Fullstack Web/App Junior</strong>.<br>
+</p>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<p align="left">
+  🦄 Linguagens e Tecnologias que tenho conheecimento: <strong>
+• HTML 
+• CSS 
+• JavaScript 
+• React
+• TailwindCSS
+• SASS
+• Styled Components 
+• Node.js+Express API REST/RESTFul / Consumo de API's
+• Git e Github
+  .</strong>
+</p>
 
-```kotlin
-object **Guilherme** {
- val name = "Guilherme Raposo"
- val acknowledgements = "Front-End"
+
+
+<p align="left">
+  💌 Para entrar em contato comigo, disponibilizei as seguintes redes e contatos: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-raposo-3a2130190/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+
+  <a href="https://wa.me/message/RG7W3NLJ22BXL1" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
+
+</p>  
+
+<br><br>
+
+  ## 🚀 Minhas Skills <br>
  
- val primarySkillset = "Git, GitHub, VSCode"
- val languages = listOf("HTML", "CSS", "TailwindCSS", "JavaScript", "VueJS") 
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ 
+ 
+  ## ⭐ Informações sobre minha conta GitHub
+   
+ <div>
+  <a href="https://github.com/Gui1703">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=tokyonight"/>
+</div><br>
+ 
 
-}
-```
-
-## **Languages and Tools:**  
-
-<div>
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
- <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">-->
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-</div>
-
-
-
-## **GitHub Statistics**
-
-<a href="https://github.com/Gui1703">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1703&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gui1703">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui1703&show_icons=true&theme=dracula&line_height=27" alt="**Gui1703** github stats"/>
-</a>
-
-[instagram]: https://www.instagram.com/guirapososilva/
-[linkedin]: https://www.linkedin.com/in/guilherme-raposo-3a2130190/
-<br>
-
-#### Social networks!
-
-<div>
- <a href="https://wa.me/message/RG7W3NLJ22BXL1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/guilherme-raposo-3a2130190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.instagram.com/guirapososilva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+  
