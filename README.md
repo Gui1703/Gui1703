@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  💜 Olá, meu nome é {Guilherme Raposo}! <br>
-  Atualmente sou <strong>Desenvolvedor Fullstack Web/App Junior</strong>.<br>
+  💜 Hello, my name is Guilherme Raposo! <br>
+  I am currently <strong>Junior Fullstack Web/App Developer</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias que tenho conheecimento: <strong>
+  🦄 Languages and Technologies I am familiar with: <strong>
 • HTML 
 • CSS 
 • JavaScript 
@@ -14,7 +14,7 @@
 • TailwindCSS
 • SASS
 • Styled Components 
-• Node.js+Express API REST/RESTFul / Consumo de API's
+• Node.js+Express API REST/RESTFul / API consumption
 • Git e Github
   .</strong>
 </p>
@@ -22,7 +22,7 @@
 
 
 <p align="left">
-  💌 Para entrar em contato comigo, disponibilizei as seguintes redes e contatos: ⤵️
+  💌 To contact me, I have made available the following network and contact: ⤵️
 </p>
 
 <p align="left">
@@ -36,22 +36,25 @@
 
 <br><br>
 
-  ## 🚀 Minhas Skills <br>
+  ## 🚀 My Skills <br>
  
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></code>
+ <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
  
-  ## ⭐ Informações sobre minha conta GitHub
+  ## ⭐ Information about my GitHub account
    
  <div>
   <a href="https://github.com/Gui1703">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui1703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1703&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1703&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
  
 
