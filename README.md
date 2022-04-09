@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Gui1703/count.svg" />
+</p>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -50,12 +54,21 @@
  
  
   ## ⭐ Information about my GitHub account
-   
- <div>
-  <a href="https://github.com/Gui1703">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui1703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1703&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
- 
-
   
+  <p align="center" >
+ 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1703&layout=compact&theme=dracula"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gui1703&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
+ 
+  <p align="center" >
+    <img src="https://github-profile-trophy.vercel.app/?username=Gui1703&row=1&theme=dracula"/>
+  <br/>
+</p>
+
+<hr>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gui1703&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
