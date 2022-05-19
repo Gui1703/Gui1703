@@ -21,6 +21,9 @@
 • SASS
 • Styled Components 
 • Node.js+Express API REST/RESTFul / API consumption
+• MongoDB
+• PostgreSQL
+• Docker
 • Git e Github
   .</strong>
 </p>
