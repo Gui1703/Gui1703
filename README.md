@@ -16,6 +16,7 @@
 • HTML 
 • CSS 
 • JavaScript 
+• TypeScript 
 • Vue 
 • React 
 • TailwindCSS 
@@ -46,7 +47,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
