@@ -27,6 +27,7 @@
 • PostgreSQL 
 • Docker 
 • Git e Github 
+• GCP 
   .</strong>
 </p>
 
@@ -47,7 +48,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
