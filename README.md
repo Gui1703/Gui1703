@@ -28,6 +28,7 @@
 • Docker 
 • Git e Github 
 • GCP 
+• Jest Test 
   .</strong>
 </p>
 
@@ -48,7 +49,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
