@@ -19,6 +19,7 @@
 • TypeScript 
 • Vue 
 • React 
+• Nuxt 
 • TailwindCSS 
 • SASS 
 • Styled Components 
@@ -49,7 +50,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,nuxtjs,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
