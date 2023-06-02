@@ -30,7 +30,8 @@
 • Git e Github 
 • GCP 
 • Jest Test 
-  .</strong>
+• Firebase
+.</strong>
 </p>
 
 <p align="left">
@@ -50,7 +51,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,nuxtjs,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,nuxtjs,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest,firebase)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
