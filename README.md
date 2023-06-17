@@ -24,6 +24,7 @@
 • SASS 
 • Styled Components 
 • Node.js+Express API REST/RESTFul / API consumption 
+• Nest  
 • MongoDB 
 • PostgreSQL 
 • Docker 
@@ -51,7 +52,7 @@
 
 ## 🚀 My Skills <br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,nuxtjs,javascript,typescript,tailwind,styledcomponents,sass,nodejs,mongodb,postgres,docker,gcp,jest,firebase)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,vue,nuxtjs,javascript,typescript,tailwind,styledcomponents,sass,nodejs,nest,mongodb,postgres,docker,gcp,jest,firebase)](https://skillicons.dev)
 
 ## ⭐ Information about my GitHub account
 
