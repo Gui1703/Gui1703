@@ -8,7 +8,7 @@
 
 <p align="left"> 
   💜 Hello, my name is Guilherme Raposo! <br>
-  I am currently <strong>Fullstack Web Developer</strong>.<br>
+  I am currently <strong>Software Engineer</strong>.<br>
 </p>
 
 <p align="left">
